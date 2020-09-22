@@ -1,0 +1,67 @@
+{
+    "appetizers": [
+        {
+            "name": "Cheese Bread",
+            "ingredients": "Bread, Parmesan Cheese",
+            "description": "Stringy cheese bread served from the oven."
+        },
+        {
+            "name": "Chips N' Dip",
+            "ingredients": "Tortilla Chips, Sour Cream Chip Dip",
+            "description": "Tortilla Chips, and sour dip to add the flavor."
+        }
+    ],
+    "coldSandwiches": [
+        {
+            "name": "Cold Turkey Sandwich",
+            "ingredients": "Cold Turkey, Bread, Mayonaise, Cheese",
+            "description": "Cold turkey sandwich served upon normal bread with mayonaise spread upon cheese."
+        },
+        {
+            "name": "Ham Sandwich",
+            "ingredients": "Ham, Bread, Mayonaise, Cheese",
+            "description": "Cold ham served with normal bread, mayonaise and cheese forming the sandwich."
+        }
+    ],
+    "hotSandwiches": [
+        {
+            "name": "Hot Ham and Cheese Sandwich",
+            "ingredients": "Ham, Cheese, Bread",
+            "description": "Hot Ham and Cheese Sandwich served on normal bread."            
+        },
+        {
+            "name": "Grilled Cheese Sandwich",
+            "ingredients": "Butter, Cheese, Bread",
+            "description": "Grilled Sandwich served on toasted bread."            
+        }
+    ],
+    "desserts": [
+        {
+            "name": "Cookie",
+            "ingredients": "Chocolate chips, Flour, Oil, Sugar",
+            "description": "Hot cookie served straight from the oven, delicious when served with milk."
+        },
+        {
+            "name": "Chocolate Ice Cream",
+            "ingredients": "Milk, Sugar, Egg, Chocolate",
+            "description": "Hot cookie served straight from the oven, delicious when served with milk."
+        }
+    ],
+    "drinks": [
+        {
+            "name": "Mountain Dew",
+            "ingredients": "Pepsi Products",
+            "description": "Carbonated soft drink called Mountain Dew served within a 8oz. cup. Comes with a straw."
+        },
+        {
+            "name": "Pepsi",
+            "ingredients": "Pepsi Products",
+            "description": "Carbonated soft drink called Pepsi served within a 8oz. cup. Comes with a straw."
+        },
+        {
+            "name": "Water",
+            "ingredients": "H2O",
+            "description": "Water from the Antartica served within a 12oz. cup. Comes with a straw."
+        }
+    ]
+}
