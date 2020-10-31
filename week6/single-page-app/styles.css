@@ -1,0 +1,62 @@
+/* CSS Imports */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+/* Reset Styles, Font Family */
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+/* General Styles */
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom right, rgba(0,0,0,0.5), rgba(0,0,0,0.3)), url('https://images.unsplash.com/photo-1576074622232-fbbeb7c27cba?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=752&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: white;
+    min-height: 30vh;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+/* Container Styles */
+@media (min-width: 576px){
+    .container {
+    max-width: 540px;
+}}
+
+@media (min-width: 768px){
+    .container {
+    max-width: 720px;
+}}
+
+@media (min-width: 992px){
+    .container {
+    max-width: 960px;
+}}
+
+@media (min-width: 1200px){
+    .container {
+    max-width: 1040px;
+}}
+
+@media (max-width: 576px) {
+    .container {
+        max-width: 90vw;
+    }
+}
+
+.container {
+    width: 100%;
+    padding-top: 25px;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
